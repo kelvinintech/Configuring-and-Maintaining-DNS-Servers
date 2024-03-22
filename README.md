@@ -23,8 +23,13 @@
 ![connect to server](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/1241013f-8600-440a-b0cb-6b6c5f545976)
 ![Enter an IP address 2](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/32ec4b48-8df1-4303-8adb-6b527f402e40)
 <p>In the New Zone Wizard pop-up window, click Next.</p>
+
 ![Right click on PLAB](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/dc0179ec-abdd-4b19-8e91-b7d8be77a3bd)
+
 <p>In the New Zone Wizard > Zone Type page, select the Secondary zone radio button and click Next.</p>
+
 ![secondary zone](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/4e827b6f-f49e-4d15-9f2c-13f481c9c382)
+
 <p>Leave the default selection in the Forward or Reverse Lookup Zone page, and click Next.</p>
+
 ![Leave the default selection in the Forward or Reverse Lookup Zone page, and click Next](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/94c3088e-58d0-4d78-9042-44ef945072a5)
