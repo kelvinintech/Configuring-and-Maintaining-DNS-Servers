@@ -1,4 +1,4 @@
-# Configuring-and-Maintaining-DNS-Servers![Step 4]
+# Configuring-and-Maintaining-DNS-Servers
 
 ![DCHP Server Lab](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/1a39925a-fd95-4b05-9ca1-4d081da250f8)
 ![Step 3](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/7c2dac68-1327-4310-a4c7-b8fdb9fba4a4)
