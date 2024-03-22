@@ -10,3 +10,4 @@
 ![Step 7](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/d30bf25b-e1f6-4c67-85f8-b4297e716f71)
 ![Select Features](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/cbcd66be-01b7-4d96-8222-b1eac7bb4be4)
 
+![Step 6](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/8c070a64-62ca-44fd-aa9f-1574c8bf0628)
