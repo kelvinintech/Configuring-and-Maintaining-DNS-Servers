@@ -128,9 +128,17 @@ On the DNS Server page, review the content and click Next.
 
 ![Step DNS server](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/c7bda645-8785-42ae-a578-4df1429b3543)
 
+Click Install on the Confirm installation selections page.
+
+<b><i><h4>Note:</h4> The installation might take a couple of minutes to complete.</i></b>
+
 ![Step 5](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/f3b4e1c6-6be7-4ff7-a066-2ad5e40d2e2e)
 
+After the installation has been completed, click Close in the Installation progress window.
+
 ![Step 6](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/8c070a64-62ca-44fd-aa9f-1574c8bf0628)
+
+
 ![Step 7](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/d30bf25b-e1f6-4c67-85f8-b4297e716f71)
 
 
