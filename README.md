@@ -138,7 +138,15 @@ After the installation has been completed, click Close in the Installation progr
 
 ![Step 6](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/8c070a64-62ca-44fd-aa9f-1574c8bf0628)
 
+<p><h4>Part 2 - Configuring an Additional DNS Server</h4>
+In an internal network, it is best practice to configure an additional DNS server. This is to ensure high-availability and fault tolerance for the server.
 
+In this task, an additional DNS Server will be configured for the internal network.</p>
+
+
+<p>
+  On the Server Manager window, click Tools and select DNS.
+</p>
 ![Step 7](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/d30bf25b-e1f6-4c67-85f8-b4297e716f71)
 
 
