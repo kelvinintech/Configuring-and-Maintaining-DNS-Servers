@@ -148,11 +148,17 @@ In this task, an additional DNS Server will be configured for the internal netwo
   On the Server Manager window, click Tools and select DNS.
 </p>
 
+<p>On the <b>DNS Manager</b> window, expandForward Lookup Zones.
+
+Right-click PRACTICELABS.COM and select Properties.</p>
 
 ![Step 7](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/d30bf25b-e1f6-4c67-85f8-b4297e716f71)
 
 
 ![allow zone transfers](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/03616897-c023-46a9-9d28-941bba701818)
+
+<p>In the PRACTICELABS.COM Properties dialog box, select the Zone Transfers tab</p>
+
 ![close dns manager window](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/20a4fe40-28d0-4b1b-bf46-c3a4cd3e3ca4)
 ![original window - tools](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/c4bff874-1a10-45dd-a2b6-352746214e31)
 ![connect to server](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/1241013f-8600-440a-b0cb-6b6c5f545976)
