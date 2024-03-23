@@ -1,6 +1,16 @@
 # Configuring-and-Maintaining-DNS-Servers
 
+Hey Friends! <a href="https://www.instagram.com/kelvinintech"><b>@Kelvinintech</b></a>here 👋🏽👋🏽
 
+<p>I developed a project showing how to configure and maintain a DNS Server</p>
+
+<p>If you're like me, in 2022, who had no idea what DNS, DHCP or even Github were🤣, here's a breakdown</p>
+
+<p>
+
+A <b>DNS server</b> is a specialized computer server that stores a database of domain names and their corresponding IP addresses. When a device needs to translate a domain name (like www.example.com) into an IP address (like 192.0.2.1), it sends a request to a DNS server. The DNS server then looks up the domain name in its database and responds with the corresponding IP address.
+  
+</p>
 <h3>Install and Configure an Alternative DNS Server</h3>
 
 
