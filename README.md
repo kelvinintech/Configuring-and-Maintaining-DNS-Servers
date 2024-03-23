@@ -28,15 +28,31 @@ The DNS server looks up the IP address associated with the domain name and tells
 
 <p>At this point you're probably wondering, "so what is the DHCP thing?" 
   
-I thought the D in DHCP meant "domain"two years ago</p>
+I thought the D in DHCP meant "domain" two years ago</p>
 
 <p>
 When your device joins a network, it might not know which DNS server to ask for IP addresses. DHCP helps by telling your device the IP address of the DNS server it should use.
 So, DHCP helps devices find and configure the DNS server they need to talk to when they want to resolve domain names.
-</p
+</p>
 
   ![i'm-so-confused-miranda-lucas](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/3354b530-c089-4e43-b91d-848e6f83e54e)
 
+
+<p>Confused again? It's okay! It means you are trying. Here's an analogy of the DHCP and DNS relationship</p>
+
+
+<p>
+  Imagine a family going on a road trip. The family consists of parents (DHCP) and their children (DNS).
+
+DHCP (the parent) is responsible for managing the trip logistics. When they arrive at a new destination (network), DHCP assigns each child (device) a seat in the car (IP address) and provides them with a map (network settings), including instructions on where to stop for food (DNS server).
+
+DNS (the child) knows how to read the map and understands where they need to go (which DNS server to use) to find the nearest ice cream parlor (IP address of a website). However, DNS relies on the directions provided by DHCP (the parent) to know which ice cream parlor (DNS server) it's allowed to visit on the trip.
+
+In this analogy, DHCP acts as the parent figure, guiding DNS and providing necessary instructions (such as the IP address of the DNS server) to navigate the journey (network communication). DNS, like a child, follows these instructions to reach the destination (resolve domain names to IP addresses) effectively.
+
+</p>
+
+![family-matters-ah-ha](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/36043c70-b359-4420-9001-d16cf302536b)
 
 
 <p>
