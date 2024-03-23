@@ -26,6 +26,42 @@ When you want to visit a website (like www.example.com), your device asks the DN
 The DNS server looks up the IP address associated with the domain name and tells your device where to go.
 </p>
 
+
+
+<p>
+
+  When a <b>DNS server</b> is configured, depending on the need, additional DNS server and functionality can be configured for the hierarchy of the network these include the following:
+
+<b>Root DNS Servers</b>: Root DNS servers' essential functionality is the translation of hostnames to IP addresses and provides answers to queries from devices on the network.
+
+<b>Internal & External DNS Servers</b>: An internal DNS server will be hosted inside of the network and will only be accessible for internally connected devices. An external DNS server can be configured on the same network and handle only external requests. If an internal DNS server gets a request from an internal device and can not resolve it, the internal DNS server will contact the external DNS server to resolve the specific request.
+
+<b>Authoritative name servers</b>: Authorative name servers contain specific information of the domain where it is located and are normally the last point of contact to resolve an IP address to a hostname.
+
+<b>DNS caching & Time to live configuration</b>: DNS caching is a temporary database stored on a client machine. This database contains records of the recently visited sites and resources by the user. Time to live (TTL) is the time specified for how long a specific record should be stored on a server before it will be removed.
+
+<b>Recursive lookup</b>: Recursive DNS queries are used when a DNS server queries other DNS servers on the network to determine the location of a specific IP address of a resource on the network.
+
+The different record types can be configured on a DNS server to facilitate communication and access to resources located on the network. These records include the following:
+
+<b>Canonical name (CNAME)</b>: CNAME records are used in conjunction with A records in a DNS system and are configured to point to the domain and never to an IP address. It can be used to set up aliases for resources on the network.
+
+<b>Mail Exchange Record (MX record)</b>: MX records are configured on a DNS server to specify an SMTP server for the specific domain. These records are used to route outgoing emails to a mail server.
+
+<b>Start of Authority (SOA)</b>: These records are part of the DNS Zone file and specify the Authoritative Name Server for the DNS zone. The details for the domain administrator and how often the DNS information needs to be updated are also part of these records.
+
+<b>Pointer record (PTR)</b>: A PTR record provides the IP address associated with a domain name. It does the exact opposite of an A record.
+
+<b>Text record (TXT)</b>: A domain administrator will create TXT records to add notes to the DNS system for reference. In addition, these records can also contain data referencing other devices.
+
+<b>Service record (SRV)</b>: An SRV record is configured to point to a specific host and port on which the resource is available, for example, instant messaging or voice-over IP services.
+
+<b>Name Server record (NS)</b>: Name Server records are configured to indicate which DNS server is authoritative in the domain. It provides information on the domain’s IP address.
+</p>
+
+
+<p>Below I documented the process of how to and configure a DNS Server</p>
+
 <h3>Install and Configure an Alternative DNS Server</h3>
 
 
