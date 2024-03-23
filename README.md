@@ -4,7 +4,7 @@ Hey Friends! <a href="https://www.instagram.com/kelvinintech"><b>@Kelvinintech</
 
 <p>I developed a project showing how to configure and maintain a DNS Server</p>
 
-<p>If you're like me, in 2022, who had no idea what DNS, DHCP or even Github were🤣, here's a breakdown</p>
+<p>In case you were unaware of DNS, DHCP, or  Github are, like myself  in 2022, here  is a summary of those terms.</p>
 
 <p>
 
@@ -25,6 +25,17 @@ It contains a list of domain names (like www.example.com) and their correspondin
 When you want to visit a website (like www.example.com), your device asks the DNS server for the website's IP address.
 The DNS server looks up the IP address associated with the domain name and tells your device where to go.
 </p>
+
+<p>At this point you're probably wondering, "so what is the DHCP thing?" 
+  
+I thought the D in DHCP meant "domain"two years ago</p>
+
+<p>
+When your device joins a network, it might not know which DNS server to ask for IP addresses. DHCP helps by telling your device the IP address of the DNS server it should use.
+So, DHCP helps devices find and configure the DNS server they need to talk to when they want to resolve domain names.
+</p
+
+  ![i'm-so-confused-miranda-lucas](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/3354b530-c089-4e43-b91d-848e6f83e54e)
 
 
 
