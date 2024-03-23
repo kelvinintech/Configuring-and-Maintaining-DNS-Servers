@@ -12,6 +12,7 @@ A <b>DNS server</b> is a specialized computer server that stores a database of d
 </p>
 
 <p>Make sense? </p>
+![this-is-so-strange-frederick-alexander-pye](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/1a7aeee4-191e-4b9b-905a-3b79f3bd0ed1)
 
 <p><b><i>Here's another explanation</i></b></p>
 
