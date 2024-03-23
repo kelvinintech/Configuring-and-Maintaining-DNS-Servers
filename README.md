@@ -147,6 +147,8 @@ In this task, an additional DNS Server will be configured for the internal netwo
 <p>
   On the Server Manager window, click Tools and select DNS.
 </p>
+
+
 ![Step 7](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/d30bf25b-e1f6-4c67-85f8-b4297e716f71)
 
 
