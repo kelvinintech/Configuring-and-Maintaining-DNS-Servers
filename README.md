@@ -9,8 +9,20 @@ Hey Friends! <a href="https://www.instagram.com/kelvinintech"><b>@Kelvinintech</
 <p>
 
 A <b>DNS server</b> is a specialized computer server that stores a database of domain names and their corresponding IP addresses. When a device needs to translate a domain name (like www.example.com) into an IP address (like 192.0.2.1), it sends a request to a DNS server. The DNS server then looks up the domain name in its database and responds with the corresponding IP address.
-  
 </p>
+
+<p>Make sense? </p>
+
+<p><b><i>Here's another explanation</i></b></p>
+
+<p>
+  
+Imagine a DNS server as a big directory or phonebook. <b>Remember those? 🤣</b> 
+It contains a list of domain names (like www.example.com) and their corresponding phone numbers (IP addresses).
+When you want to visit a website (like www.example.com), your device asks the DNS server for the website's IP address.
+The DNS server looks up the IP address associated with the domain name and tells your device where to go.
+</p>
+
 <h3>Install and Configure an Alternative DNS Server</h3>
 
 
