@@ -91,7 +91,8 @@ The different record types can be configured on a <b>DNS server</b> to facilitat
 </p>
 
 
-<p>Below I documented the process of how to and configure a DNS Server</p>
+<p>Below I documented the process of how to install and configure a DNS Server</p>
+
 
 <h3>Install and Configure an Alternative DNS Server</h3>
 
@@ -110,7 +111,13 @@ The different record types can be configured on a <b>DNS server</b> to facilitat
 
 ![Step 3](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/7c2dac68-1327-4310-a4c7-b8fdb9fba4a4)
 
+<p>In the Select destination server page, leave the default selection and click Next.</p>
+
 ![Destination Server](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/f3080086-8007-492e-a899-6da461b14a45)
+
+<p>Enable the DNS Server checkbox.
+In the Add Roles and Features Wizard pop-up window, click Add Features.</p>
+
 ![Select Server Roles](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/37ee022b-b95a-4f58-ac43-dcc383ce2794)
 ![Select Features](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/cbcd66be-01b7-4d96-8222-b1eac7bb4be4)
 ![Step DNS server](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/c7bda645-8785-42ae-a578-4df1429b3543)
