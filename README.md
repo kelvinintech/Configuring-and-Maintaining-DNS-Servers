@@ -73,7 +73,7 @@ In this analogy, DHCP acts as the parent figure, guiding DNS and providing neces
 
 <b>Recursive lookup</b>: Recursive DNS queries are used when a DNS server queries other DNS servers on the network to determine the location of a specific IP address of a resource on the network.
 
-The different record types can be configured on a DNS server to facilitate communication and access to resources located on the network. These records include the following:
+The different record types can be configured on a <b>DNS server</b> to facilitate communication and access to resources located on the network. These records include the following:
 
 <b>Canonical name (CNAME)</b>: CNAME records are used in conjunction with A records in a DNS system and are configured to point to the domain and never to an IP address. It can be used to set up aliases for resources on the network.
 
