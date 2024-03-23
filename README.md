@@ -161,6 +161,8 @@ Right-click PRACTICELABS.COM and select Properties.</p>
 
 ![close dns manager window](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/20a4fe40-28d0-4b1b-bf46-c3a4cd3e3ca4)
 ![original window - tools](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/c4bff874-1a10-45dd-a2b6-352746214e31)
+
+<h3>Hey Friends! This lab isn't fully completed! Everything below this text still needs to be edited. Will get back to this ASAP! ✌🏽</h3>
 ![connect to server](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/1241013f-8600-440a-b0cb-6b6c5f545976)
 ![Enter an IP address 2](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/32ec4b48-8df1-4303-8adb-6b527f402e40)
 <p>In the New Zone Wizard pop-up window, click Next.</p>
