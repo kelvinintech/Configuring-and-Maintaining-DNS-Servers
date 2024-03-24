@@ -127,25 +127,28 @@ On the DNS Server page, review the content and click Next.
 
 ![Step DNS server](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/c7bda645-8785-42ae-a578-4df1429b3543)
 
-Click Install on the Confirm installation selections page.
+<p>Click Install on the Confirm installation selections page.
 
-<b><i><h4>Note:</h4> The installation might take a couple of minutes to complete.</i></b>
+<b><i><h4>Note:</h4> The installation might take a couple of minutes to complete.</i></b></p>
+
+
+
+<p><h4>Part 2 - Configuring an Additional DNS Server</h4>
+In an internal network, it is best practice to configure an additional <b>DNS server</b>. This is to ensure high-availability and fault tolerance for the server.
 
 ![Step 5](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/f3b4e1c6-6be7-4ff7-a066-2ad5e40d2e2e)
 
-After the installation has been completed, click Close in the Installation progress window.
 
-![Step 6](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/8c070a64-62ca-44fd-aa9f-1574c8bf0628)
-
-<p><h4>Part 2 - Configuring an Additional DNS Server</h4>
-In an internal network, it is best practice to configure an additional DNS server. This is to ensure high-availability and fault tolerance for the server.
-
-In this task, an additional DNS Server will be configured for the internal network.</p>
+In this task, an additional <b>DNS Server</b>r will be configured for the internal network.</p>
 
 
 <p>
   On the Server Manager window, click Tools and select DNS.
 </p>
+
+![Step 6](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/8c070a64-62ca-44fd-aa9f-1574c8bf0628)
+
+
 
 <p>On the <b>DNS Manager</b> window, expandForward Lookup Zones.
 
