@@ -173,12 +173,17 @@ Leave the default settings and click OK.</p>
 
 <h3>We're Almost finished! Return to your original DNS Server
 </h3>
-On the Server Manager window, click Tools and select DNS.
+<p></p>On the Server Manager window, click Tools and select DNS.</p>
 
 ![original window - tools](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/0d1715eb-0cf5-4fe5-a9f3-246214612a08)
 
+<p>On the DNS Manager window, right-click DNS and select Connect to DNS Server</p>
 
 ![connect to server](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/1241013f-8600-440a-b0cb-6b6c5f545976)
+
+<p>On the Connect to DNS Server dialog box, select The following computer radio button.
+
+Enter an  IP address and click OK </p>
 
 ![Enter an IP address 2](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/32ec4b48-8df1-4303-8adb-6b527f402e40)
 <p>In the New Zone Wizard pop-up window, click Next.</p>
