@@ -185,6 +185,21 @@ Leave the default settings and click OK.</p>
 
 Enter an  IP address and click OK </p>
 
+<p><b>note: The IP address specified for the existing DNS server is the Domain Controller on the internal network, which has already been set up as a DNS server. It might take a couple of minutes to resolve the IP address.</b></p>
+
+
+
+<p>Click 192.168.0.2 in the DNS Manager window.</p>
+
+<img width="440" alt="click the ip address you selected in the server window" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/27eed37a-b025-4674-be3c-4ebc9815a05b">
+
+<p>
+  <b>
+    <i> Note: By selecting the added DNS server, the DNS records of the server can be viewed. It might take a couple of minutes to replicate the content. The replicated DNS records are read-only.</i>
+  </b>
+</p>
+
+
 ![Enter an IP address 2](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/32ec4b48-8df1-4303-8adb-6b527f402e40)
 <p>In the New Zone Wizard pop-up window, click Next.</p>
 
