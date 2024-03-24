@@ -161,12 +161,12 @@ Right-click PRACTICELABS.COM and select Properties.</p>
 
 ![allow zone transfers](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/03616897-c023-46a9-9d28-941bba701818)
 
+<p>Enable the Allow zone transfers checkbox.
 
+Leave the default settings and click OK.</p>
 
-![close dns manager window](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/20a4fe40-28d0-4b1b-bf46-c3a4cd3e3ca4)
-![original window - tools](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/c4bff874-1a10-45dd-a2b6-352746214e31)
+![allow zone transfers 1](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/aa95b8c7-f0c4-4041-8367-4d023bd319d5)
 
-<h3>Hey Friends! This lab isn't fully completed! Everything below this text still needs to be edited. Will get back to this ASAP! ✌🏽</h3>
 
 
 ![connect to server](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/1241013f-8600-440a-b0cb-6b6c5f545976)
