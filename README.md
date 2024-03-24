@@ -250,3 +250,25 @@ Enter an  IP address and click OK </p>
 </p>
 <img width="446" alt="masters DNS servers" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/36756594-5b3b-4f70-933a-17d809167ee6">
 
+<p>Click Next in the New Zone Wizard > Completing the New Zone Wizard page. Then, click Finish.</p>
+
+<img width="428" alt="complete zone wizard" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/70399ce7-78ec-4f25-882a-4a7b4bcc569b">
+
+<p>
+
+Back on the DNS Manager window, expand your terminal dropdown > Forward Lookup Zones and select PRACTICELABS.COM.
+
+  <i>
+
+  <b> 
+    Note: The Forward lookup zones have been successfully replicated to the new server. If the zones do not show, please refresh the page. This is a read-only copy of the primary server’s Forward lookup zone.
+  </b>
+  
+  </i>
+</p>
+
+
+
+
+<img width="451" alt="forward lookup zones practice labs" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/62aee84c-d98a-4d7a-a9f9-4e2dcf274c7b">
+
