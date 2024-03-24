@@ -175,6 +175,8 @@ Leave the default settings and click OK.</p>
 </h3>
 On the Server Manager window, click Tools and select DNS.
 
+![original window - tools](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/0d1715eb-0cf5-4fe5-a9f3-246214612a08)
+
 
 ![connect to server](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/1241013f-8600-440a-b0cb-6b6c5f545976)
 
