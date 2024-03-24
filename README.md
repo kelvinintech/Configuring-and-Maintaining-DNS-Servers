@@ -197,7 +197,11 @@ Enter an  IP address and click OK </p>
   <b>
     <i> Note: By selecting the added DNS server, the DNS records of the server can be viewed. It might take a couple of minutes to replicate the content. The replicated DNS records are read-only.</i>
   </b>
-</p>
+</p
+
+  Right-click terminal name and select New-Zone...
+
+<img width="440" alt="new zone " src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/968eb7d3-2ac3-4da8-a3e9-170aa056cd4c">
 
 
 ![Enter an IP address 2](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/32ec4b48-8df1-4303-8adb-6b527f402e40)
