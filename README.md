@@ -167,6 +167,13 @@ Leave the default settings and click OK.</p>
 
 ![allow zone transfers 1](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/aa95b8c7-f0c4-4041-8367-4d023bd319d5)
 
+<p>Close the DNS Manager window</p>
+
+<img width="422" alt="close dns manager window 1" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/d3ef90c6-e8f5-4bca-8f39-5e1d21c922e2">
+
+<h3>We're Almost finished! Return to your original DNS Server
+</h3>
+On the Server Manager window, click Tools and select DNS.
 
 
 ![connect to server](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/1241013f-8600-440a-b0cb-6b6c5f545976)
