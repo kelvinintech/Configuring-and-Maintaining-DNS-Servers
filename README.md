@@ -25,9 +25,9 @@ When you want to visit a website, your device asks the DNS server for the websit
 The DNS server looks up the IP address associated with the domain name and tells your device where to go.
 </p>
 
-<p>At this point you're probably wondering, "so what is the DHCP thing?" 
-  
-I thought the D in DHCP meant "domain" two years ago</p>
+<p>At this point you're probably wondering, "<b></b>so what is the DHCP thing?</b>"</p> 
+
+
 
 <p>
 When your device joins a network, it might not know which DNS server to ask for IP addresses. DHCP helps by telling your device the IP address of the DNS server it should use.
