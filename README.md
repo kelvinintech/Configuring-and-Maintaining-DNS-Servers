@@ -18,11 +18,11 @@ A <b>DNS server</b> is a specialized computer server that stores a database of d
 
 <p>
   
-Imagine a DNS server as a big directory or phonebook. <b>Remember those? 🤣</b> 
+Imagine a <b>DNS server</b> as a big directory or phonebook. <b>Remember those? 🤣</b> 
 
 It contains a list of domain names (like www.example.com) and their corresponding phone numbers (IP addresses).
-When you want to visit a website, your device asks the DNS server for the website's IP address.
-The DNS server looks up the IP address associated with the domain name and tells your device where to go.
+When you want to visit a website, your device asks the <b>DNS server</b> for the website's IP address.
+The <b>DNS server</b> looks up the IP address associated with the domain name and tells your device where to go.
 </p>
 
 <p>At this point you're probably wondering, "<b></b>so what is the DHCP thing?</b>"</p> 
@@ -30,8 +30,8 @@ The DNS server looks up the IP address associated with the domain name and tells
 
 
 <p>
-When your device joins a network, it might not know which DNS server to ask for IP addresses. DHCP helps by telling your device the IP address of the DNS server it should use.
-So, DHCP helps devices find and configure the DNS server they need to talk to when they want to resolve domain names.
+When your device joins a network, it might not know which <b>DNS server</b> to ask for IP addresses. DHCP helps by telling your device the IP address of the DNS server it should use.
+So, DHCP helps devices find and configure the <b>DNS server</b> they need to talk to when they want to resolve domain names.
 </p>
 
   ![i'm-so-confused-miranda-lucas](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/3354b530-c089-4e43-b91d-848e6f83e54e)
