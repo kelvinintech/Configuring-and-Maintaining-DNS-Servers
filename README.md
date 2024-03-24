@@ -222,3 +222,31 @@ Enter an  IP address and click OK </p>
 <p>Leave the default selection in the Forward or Reverse Lookup Zone page, and click Next.</p>
 
 ![Leave the default selection in the Forward or Reverse Lookup Zone page, and click Next](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/94c3088e-58d0-4d78-9042-44ef945072a5)
+
+<p>Select your IP address and click OK in the Browse window.</p>
+
+<img width="347" alt="browse window" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/503b1c3c-5ebc-47ac-b21f-f21467905974">
+
+<p>
+  In the Browse window, select Forward Lookup Zones and click OK
+</p>
+
+<img width="437" alt="Select forward lookup tables" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/f6c34fa8-c32d-4c5f-80d8-ce9d2dbf8686">
+
+<p>
+  Select Practicelabs.com in the Browse window and click OK.
+(your PC  will say something different than "practicelabs.com"
+</p>
+
+<img width="478" alt="select practice labs" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/57e4b33f-d21e-42ee-a50d-666bde4f3e96">
+
+<p>
+  Back in the Zone Name page, click Next.
+</p>
+
+<img width="449" alt="zone page click next" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/35c4f1d0-6002-4d01-b5ae-724bdc9e7ca3">
+
+<p>On the Master DNS Servers page, enter the following IP address in the Master Servers field and click Next.
+</p>
+<img width="446" alt="masters DNS servers" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/36756594-5b3b-4f70-933a-17d809167ee6">
+
