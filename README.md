@@ -272,3 +272,7 @@ Back on the DNS Manager window, expand your terminal dropdown > Forward Lookup Z
 
 <img width="451" alt="forward lookup zones practice labs" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/62aee84c-d98a-4d7a-a9f9-4e2dcf274c7b">
 
+
+<p>
+  Close DNS Manager.
+</p>
