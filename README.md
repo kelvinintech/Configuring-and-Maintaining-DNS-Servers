@@ -39,7 +39,7 @@ So, DHCP helps devices find and configure the <b>DNS server</b> they need to tal
 
 <p>Confused again? <b>It's okay! It means you are trying!</b> 
   
-  Here's an analogy of the DHCP and DNS relationship</p>
+  <i>Here's an analogy of the DHCP and DNS relationship:</i></p>
 
 
 <p>
