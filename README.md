@@ -131,7 +131,7 @@ On the DNS Server page, review the content and click Next.
 
 <b><i><h4>Note:</h4> The installation might take a couple of minutes to complete.</i></b></p>
 
-
+<p><b>After the installation has been completed, click Close in the Installation progress window.</b></p>
 
 <p><h4>Part 2 - Configuring an Additional DNS Server</h4>
 In an internal network, it is best practice to configure an additional <b>DNS server</b>. This is to ensure high-availability and fault tolerance for the server.
