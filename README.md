@@ -151,9 +151,11 @@ In this task, an additional <b>DNS Server</b>r will be configured for the intern
 
 
 
-<p>On the <b>DNS Manager</b> window, expandForward Lookup Zones.
-
+<p>On the <b>DNS Manager</b> window, expand Forward Lookup Zones.
+  
 Right-click PRACTICELABS.COM and select Properties.</p>
+
+<img width="475" alt="forward lookup zones" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/f0e5c2df-3208-400d-8673-55225fc7c494">
 
 ![Step 7](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/d30bf25b-e1f6-4c67-85f8-b4297e716f71)
 
