@@ -157,10 +157,6 @@ Right-click PRACTICELABS.COM and select Properties.</p>
 
 <img width="472" alt="forward lookup zones 2" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/8d7a2d2f-9192-4c56-b3a3-0f787a7cbaef">
 
-
-![Step 7](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/d30bf25b-e1f6-4c67-85f8-b4297e716f71)
-
-
 ![allow zone transfers](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/03616897-c023-46a9-9d28-941bba701818)
 
 <p>In the PRACTICELABS.COM Properties dialog box, select the Zone Transfers tab</p>
