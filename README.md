@@ -133,10 +133,11 @@ On the DNS Server page, review the content and click Next.
 
 <p><b>After the installation has been completed, click Close in the Installation progress window.</b></p>
 
-<p><h4>Part 2 - Configuring an Additional DNS Server</h4>
-In an internal network, it is best practice to configure an additional <b>DNS server</b>. This is to ensure high-availability and fault tolerance for the server.
 
 ![Step 5](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/f3b4e1c6-6be7-4ff7-a066-2ad5e40d2e2e)
+
+<p><h4>Part 2 - Configuring an Additional DNS Server</h4>
+In an internal network, it is best practice to configure an additional <b>DNS server</b>. This is to ensure high-availability and fault tolerance for the server.
 
 
 In this task, an additional <b>DNS Server</b>r will be configured for the internal network.</p>
