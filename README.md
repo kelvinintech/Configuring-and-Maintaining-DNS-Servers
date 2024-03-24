@@ -19,8 +19,9 @@ A <b>DNS server</b> is a specialized computer server that stores a database of d
 <p>
   
 Imagine a DNS server as a big directory or phonebook. <b>Remember those? 🤣</b> 
+
 It contains a list of domain names (like www.example.com) and their corresponding phone numbers (IP addresses).
-When you want to visit a website (like www.example.com), your device asks the DNS server for the website's IP address.
+When you want to visit a website, your device asks the DNS server for the website's IP address.
 The DNS server looks up the IP address associated with the domain name and tells your device where to go.
 </p>
 
