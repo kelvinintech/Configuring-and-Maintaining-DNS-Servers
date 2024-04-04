@@ -126,7 +126,7 @@ On the DNS Server page, review the content and click <b>Next<b/>.
 
 ![Step DNS server](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/c7bda645-8785-42ae-a578-4df1429b3543)
 
-<p>Click <b>Install</b> on the <b>Confirm installation </b>selections page.
+<p>Click <b>Install</b> on the <b>Confirm installation</b>selections page.
 
 <i><h4>Note:</h4> The installation might take a couple of minutes to complete.</i></p>
 
@@ -293,3 +293,21 @@ Back on the DNS Manager window, expand your terminal dropdown > Forward Lookup Z
 <p>
   Close DNS Manager.
 </p>
+
+
+<h4>The Last Part!</h4>
+
+<p>
+  <b>Configuring a DNS Record</b>
+A DNS A Record can be added to the DNS server. These records can then be used by client computers to locate specific resources on the network. DNS records are created using a specific resource's IP address, then translated to a hostname, making it easier to locate the specific resource.
+
+In this task, different DNS records will be configured on a DNS reserver.
+</p>
+
+
+<p>
+  In Server Manager, select Tools and click DNS.
+</p>
+
+
+<img width="497" alt="original dns server" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/0d2224ca-e65c-4aa1-9a81-ce0cc2d69b40">
