@@ -318,7 +318,7 @@ In this task, different DNS records will be configured on a DNS reserver.
 
 ![On the DNS Manager window, expand Forward Lookup Zones](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/ac1ac589-a67f-49c0-ace1-234a32552d9d)
 
-<p
+<p>
   Right-click PRACTICELABS.COM and select New Host (A or AAAA)…
   </p>
 
