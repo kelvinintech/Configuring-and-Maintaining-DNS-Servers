@@ -190,7 +190,7 @@ Enter an  IP address and click OK </p>
 
 
 
-<p>Click 192.168.0.2 in the DNS Manager window.</p>
+<p>Click the IP address you entered in the <b>DNS</b> Manager window.</p>
 
 <img width="440" alt="click the ip address you selected in the server window" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/27eed37a-b025-4674-be3c-4ebc9815a05b">
 
@@ -227,6 +227,20 @@ Enter an  IP address and click OK </p>
 <p>Select your IP address and click OK in the Browse window.</p>
 
 <img width="347" alt="browse window" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/503b1c3c-5ebc-47ac-b21f-f21467905974">
+
+
+<p>
+  Click Browse on the Zone Name page.
+</p>
+
+<img width="382" alt="browse on the zone name" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/19294898-dec8-4ff7-a521-e42ca9958361">
+
+
+<p>
+  Select 192.168.0.2 and click OK in the Browse window.
+</p>
+
+<img width="387" alt="select 192 168 0 2" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/d16b2205-e676-4ac8-bc16-5f782c15cdef">
 
 <p>
   In the Browse window, select Forward Lookup Zones and click OK
