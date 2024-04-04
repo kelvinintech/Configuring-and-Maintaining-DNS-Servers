@@ -376,3 +376,8 @@ This is how my screen appears
     Note: After updating the client machine's DNS records, the newly created DNS records resolve successfully. Similarly, other DNS records can be created depending on the need in the network. These records can include MX, SRV, NS and several others
   </i>
 </p>
+
+<h4>
+  You've completed this lab successfully. 
+</h4>
+<p>Take a moment to congratulate yourself. Feel free to utilize my documentation as a reference and share it with others if you found it useful.</p>
