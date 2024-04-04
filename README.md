@@ -224,16 +224,16 @@ Enter an  IP address and click OK </p>
 
 ![Leave the default selection in the Forward or Reverse Lookup Zone page, and click Next](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/94c3088e-58d0-4d78-9042-44ef945072a5)
 
-<p>Select your IP address and click OK in the Browse window.</p>
-
-<img width="347" alt="browse window" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/503b1c3c-5ebc-47ac-b21f-f21467905974">
-
-
 <p>
   Click Browse on the Zone Name page.
 </p>
 
 <img width="382" alt="browse on the zone name" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/19294898-dec8-4ff7-a521-e42ca9958361">
+
+
+<p>Select your IP address and click OK in the Browse window.</p>
+
+<img width="347" alt="browse window" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/503b1c3c-5ebc-47ac-b21f-f21467905974">
 
 
 <p>
