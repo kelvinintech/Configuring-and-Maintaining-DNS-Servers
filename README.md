@@ -120,7 +120,7 @@ The different record types can be configured on a <b>DNS server</b> to facilitat
   
 In the Add Roles and Features Wizard pop-up window, click Add Features.</p>
 
-<img width="633" alt="11 Screenshot 2024-04-04 061602" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/9ead3cc1-a632-4d36-acf2-342f41f06d2d">
+<img width="633" alt="add features" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/c4f3b95b-3f80-4490-aaee-01b6969bdc50">
 
 
 <p> In the Select features page, leave the default selection and click Next. </p>
