@@ -354,13 +354,13 @@ This is how my screen appears
 ![windows powershell](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/c9bea444-efe0-45e5-8790-3d89ae96166a)
 
 <p>
-  In the Administrator: Windows Powershell window, type the following and press Enter: ipconfig /flushdns
+  In the Administrator: Windows Powershell window, type the following and press Enter: <b>ipconfig /flushdns</b>
 </p>
 
 <img width="569" alt="Administrator Windows Powershell" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/c2c98b40-ae74-4d46-bdcc-41888b3e006a">
 
 <p>
-  In the Administrator: Windows Powershell window, type the following and press Enter: ipconfig /registerdns
+  In the Administrator: Windows Powershell window, type the following and press Enter: <b>ipconfig /registerdns</b>
 </p>
 
 <img width="553" alt="register DNS" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/a69b0f28-cf90-4887-ba11-aa2eaed6eae9">
@@ -377,7 +377,7 @@ This is how my screen appears
   </i>
 </p>
 
-<h4>
+<h2>
   You've completed this lab successfully. 
-</h4>
+</h2>
 <p>Take a moment to congratulate yourself. Feel free to utilize my documentation as a reference and share it with others if you found it useful.</p>
