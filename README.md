@@ -118,11 +118,10 @@ The different record types can be configured on a <b>DNS server</b> to facilitat
 
 ![Select Server Roles](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/37ee022b-b95a-4f58-ac43-dcc383ce2794)
   
-
-
 In the Add Roles and Features Wizard pop-up window, click Add Features.</p>
 
-  <img width="633" alt="11 Screenshot 2024-04-04 061602" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/0374dfef-2201-4b2f-92a6-fd24ed4c4608">
+<img width="633" alt="11 Screenshot 2024-04-04 061602" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/9ead3cc1-a632-4d36-acf2-342f41f06d2d">
+
 
 <p> In the Select features page, leave the default selection and click Next. </p>
 
