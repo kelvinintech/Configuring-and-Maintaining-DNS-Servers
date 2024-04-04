@@ -319,8 +319,19 @@ In this task, different DNS records will be configured on a DNS reserver.
 ![On the DNS Manager window, expand Forward Lookup Zones](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/ac1ac589-a67f-49c0-ace1-234a32552d9d)
 
 <p>
-  Right-click PRACTICELABS.COM and select New Host (A or AAAA)…
+  Right-click PRACTICELABS.COM (or your equivalent) and select New Host (A or AAAA)…
   </p>
 
 
 <img width="604" alt="aa or aaaa" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/1a339f44-f47f-4eee-a9ac-2e7ae7477fd0">
+
+<P>
+  In the <B>New Host</B> dialog box, complete the following fields and click Add Host
+</P>
+
+<img width="571" alt="NEW HOST" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/34dccd37-e18e-445f-8244-cc0f9c28a0ab">
+
+<p>For example: 
+This is how my screen appears
+</p>
+<img width="596" alt="this is how mine looks" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/bcb4a956-cf18-4343-98e6-caad1ea9b49f">
