@@ -122,7 +122,7 @@ In the Add Roles and Features Wizard pop-up window, click <b>Add Features.</b></
 
 ![Select Features](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/cbcd66be-01b7-4d96-8222-b1eac7bb4be4)
 
-On the DNS Server page, review the content and click <b>Next<b/>.
+On the DNS Server page, review the content and click Next.
 
 ![Step DNS server](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/c7bda645-8785-42ae-a578-4df1429b3543)
 
