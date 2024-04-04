@@ -335,3 +335,44 @@ In this task, different DNS records will be configured on a DNS reserver.
 This is how my screen appears
 </p>
 <img width="596" alt="this is how mine looks" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/bcb4a956-cf18-4343-98e6-caad1ea9b49f">
+
+<p>A prompt should display that says it was successfully created. 🥳 </p>
+
+<img width="571" alt="successfully created" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/63d69098-cefe-4ae2-b358-63ad5dc5eeb3">
+
+<p>
+  
+<i>
+  A DNS A record is added to a DNS Server to specify a specific host on the network. In this example, the IP address of 192.168.0.3 will be translated to the hostname of storagesrv.practicelabs.com.
+</i>
+</p>
+
+<p>
+ In a new window, right-click Start and select Windows Powershell (Admin).
+</p>
+
+![windows powershell](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/c9bea444-efe0-45e5-8790-3d89ae96166a)
+
+<p>
+  In the Administrator: Windows Powershell window, type the following and press Enter: ipconfig /flushdns
+</p>
+
+<img width="569" alt="Administrator Windows Powershell" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/c2c98b40-ae74-4d46-bdcc-41888b3e006a">
+
+<p>
+  In the Administrator: Windows Powershell window, type the following and press Enter: ipconfig /registerdns
+</p>
+
+<img width="553" alt="register DNS" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/a69b0f28-cf90-4887-ba11-aa2eaed6eae9">
+
+<p>
+  <i>
+    Executing these commands in Windows Powershell will update the DNS records for the client machine.
+  </i>
+</p>
+
+<p>
+  <i>
+    Note: After updating the client machine's DNS records, the newly created DNS records resolve successfully. Similarly, other DNS records can be created depending on the need in the network. These records can include MX, SRV, NS and several others
+  </i>
+</p>
