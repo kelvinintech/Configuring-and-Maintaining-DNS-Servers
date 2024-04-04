@@ -380,4 +380,6 @@ This is how my screen appears
 <h2>
   You've completed this lab successfully. 
 </h2>
-<p>Take a moment to congratulate yourself. Feel free to utilize my documentation as a reference and share it with others if you found it useful.</p>
+<p>Take a moment to congratulate yourself 🥳🍻🍾🎉🙌🏽. <br />
+  
+  Feel free to utilize my documentation as a reference and share it with others if you found it useful.</p>
