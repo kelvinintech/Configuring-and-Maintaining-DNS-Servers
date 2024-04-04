@@ -237,16 +237,18 @@ Enter an  IP address and click OK </p>
 
 
 <p>
+  In the Browse window, select Forward Lookup Zones and click OK
+</p>
+
+<img width="437" alt="Select forward lookup tables" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/f6c34fa8-c32d-4c5f-80d8-ce9d2dbf8686">
+
+
+<p>
   Select 192.168.0.2 and click OK in the Browse window.
 </p>
 
 <img width="387" alt="select 192 168 0 2" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/d16b2205-e676-4ac8-bc16-5f782c15cdef">
 
-<p>
-  In the Browse window, select Forward Lookup Zones and click OK
-</p>
-
-<img width="437" alt="Select forward lookup tables" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/f6c34fa8-c32d-4c5f-80d8-ce9d2dbf8686">
 
 <p>
   Select Practicelabs.com in the Browse window and click OK.
