@@ -89,12 +89,9 @@ The different record types can be configured on a <b>DNS server</b> to facilitat
 <b>Name Server record (NS)</b>: Name Server records are configured to indicate which DNS server is authoritative in the domain. It provides information on the domain’s IP address.
 </p>
 
-
 <p>Below I documented the process of how to install and configure a <b>DNS Server</b></p>
 
-
 <h3>Install and Configure an Alternative <b>DNS Server</b></h3>
-
 
 <p>In the Server Manager window, select Add roles and features.</p>
 
@@ -102,11 +99,9 @@ The different record types can be configured on a <b>DNS server</b> to facilitat
 
 <p>In the Add Roles and Features Wizard window, see <b>Before You Begin</b> in a larger font. At the bottom of the page, click Next.</p>
 
-
 ![Step 2](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/fbeec4ba-3da2-40d7-83ba-0adb1c406fef)
 
 <p>Leave the default selection and click <b>bext</b> on the Select installation type page</p>
-
 
 ![Step 3](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/7c2dac68-1327-4310-a4c7-b8fdb9fba4a4)
 
@@ -118,22 +113,22 @@ The different record types can be configured on a <b>DNS server</b> to facilitat
 
 ![Select Server Roles](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/37ee022b-b95a-4f58-ac43-dcc383ce2794)
   
-In the Add Roles and Features Wizard pop-up window, click Add Features.</p>
+In the Add Roles and Features Wizard pop-up window, click <b>Add Features.</b></p>
 
 <img width="633" alt="add features" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/c4f3b95b-3f80-4490-aaee-01b6969bdc50">
 
 
-<p> In the Select features page, leave the default selection and click Next. </p>
+<p> In the Select features page, leave the default selection and click <b>Next</b>. </p>
 
 ![Select Features](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/cbcd66be-01b7-4d96-8222-b1eac7bb4be4)
 
-On the DNS Server page, review the content and click Next.
+On the DNS Server page, review the content and click <b>Next<b/>.
 
 ![Step DNS server](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/c7bda645-8785-42ae-a578-4df1429b3543)
 
-<p>Click Install on the Confirm installation selections page.
+<p>Click <b>Install</b> on the <b>Confirm installation </b>selections page.
 
-<b><i><h4>Note:</h4> The installation might take a couple of minutes to complete.</i></b></p>
+<i><h4>Note:</h4> The installation might take a couple of minutes to complete.</i></p>
 
 <p><b>After the installation has been completed, click Close in the Installation progress window.</b></p>
 
@@ -144,28 +139,28 @@ On the DNS Server page, review the content and click Next.
 In an internal network, it is best practice to configure an additional <b>DNS server</b>. This is to ensure high-availability and fault tolerance for the server.
 
 
-In this task, an additional <b>DNS Server</b>r will be configured for the internal network.</p>
+In this task, an additional <b>DNS Server</b> will be configured for the internal network.</p>
 
 
 <p>
-  On the Server Manager window, click Tools and select DNS.
+  On the Server Manager window, click <b>Tools</b> and select <b>DNS</b>.
 </p>
 
 ![Step 6](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/8c070a64-62ca-44fd-aa9f-1574c8bf0628)
 
 
 
-<p>On the <b>DNS Manager</b> window, expand Forward Lookup Zones.
+<p>On the <b>DNS Manager</b> window, expand <b>Forward Lookup Zones</b>.
   
-Right-click PRACTICELABS.COM and select Properties.</p>
+Right-click PRACTICELABS.COM and select <b>Properties</b>.</p>
 
 <img width="472" alt="forward lookup zones 2" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/8d7a2d2f-9192-4c56-b3a3-0f787a7cbaef">
 
-<p>In the PRACTICELABS.COM Properties dialog box, select the Zone Transfers tab</p>
+<p>In the PRACTICELABS.COM Properties dialog box, select the <b>Zone Transfers tab</b></p>
 
 ![allow zone transfers](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/03616897-c023-46a9-9d28-941bba701818)
 
-<p>Enable the Allow zone transfers checkbox.
+<p>Enable the <b>Allow zone transfers</b> checkbox.
 
 Leave the default settings and click OK.</p>
 
@@ -177,17 +172,19 @@ Leave the default settings and click OK.</p>
 
 <h3>We're Almost finished! Return to your original DNS Server
 </h3>
-<p></p>On the Server Manager window, click Tools and select DNS.</p>
+<p></p>On the Server Manager window, click <b>Tools</b>and select <b>DNS</b>.</p>
 
 ![original window - tools](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/0d1715eb-0cf5-4fe5-a9f3-246214612a08)
 
-<p>On the DNS Manager window, right-click DNS and select Connect to DNS Server</p>
+<p>On the <b>DNS</b>Manager window, right-click DNS and select Connect to <b>DNS Server</b></p>
 
 ![connect to server](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/1241013f-8600-440a-b0cb-6b6c5f545976)
 
-<p>On the Connect to DNS Server dialog box, select The following computer radio button.
+<p>On the Connect to <b>DNS Server</b> dialog box, select The following computer radio button.
 
 Enter an  IP address and click OK </p>
+
+<img width="634" alt="CONNECT TO DNS SERVER RADIO BUTTON" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/d335348d-48d8-4bd0-afcc-e281645ed774">
 
 <p><b>note: The IP address specified for the existing DNS server is the Domain Controller on the internal network, which has already been set up as a DNS server. It might take a couple of minutes to resolve the IP address.</b></p>
 
