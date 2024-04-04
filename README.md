@@ -46,7 +46,7 @@ So, DHCP helps devices find and configure the <b>DNS server</b> they need to tal
   
   Imagine a family going on a road trip. The family consists of parents (DHCP) and their children (DNS).
 
-DHCP (the parent) is responsible for managing the trip logistics. When they arrive at a new destination (network), DHCP assigns each child (device) a seat in the car (IP address) and provides them with a map (network settings), including instructions on where to stop for food (DNS server).
+DHCP (the parent) is responsible for managing the trip logistics. When they arrive at a new destination (network), DHCP assigns each child (device) a seat in the car (IP address) and provides them with a map (network settings), including instructions on where to stop for food (<b>DNS server</b>).
 
 DNS (the child) knows how to read the map and understands where they need to go (which DNS server to use) to find the nearest ice cream parlor (IP address of a website). However, DNS relies on the directions provided by DHCP (the parent) to know which ice cream parlor (DNS server) it's allowed to visit on the trip.
 
@@ -70,7 +70,7 @@ In this analogy, DHCP acts as the parent figure, guiding DNS and providing neces
 
 <b>DNS caching & Time to live configuration</b>: DNS caching is a temporary database stored on a client machine. This database contains records of the recently visited sites and resources by the user. Time to live (TTL) is the time specified for how long a specific record should be stored on a server before it will be removed.
 
-<b>Recursive lookup</b>: Recursive DNS queries are used when a DNS server queries other DNS servers on the network to determine the location of a specific IP address of a resource on the network.
+<b>Recursive lookup</b>: Recursive DNS queries are used when a DNS server queries other <b>DNS servers</b> on the network to determine the location of a specific IP address of a resource on the network.
 
 The different record types can be configured on a <b>DNS server</b> to facilitate communication and access to resources located on the network. These records include the following:
 
@@ -90,10 +90,10 @@ The different record types can be configured on a <b>DNS server</b> to facilitat
 </p>
 
 
-<p>Below I documented the process of how to install and configure a DNS Server</p>
+<p>Below I documented the process of how to install and configure a <b>DNS Server</b></p>
 
 
-<h3>Install and Configure an Alternative DNS Server</h3>
+<h3>Install and Configure an Alternative <b>DNS Server</b></h3>
 
 
 <p>In the Server Manager window, select Add roles and features.</p>
@@ -115,9 +115,14 @@ The different record types can be configured on a <b>DNS server</b> to facilitat
 ![Destination Server](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/f3080086-8007-492e-a899-6da461b14a45)
 
 <p>Enable the DNS Server checkbox.
-In the Add Roles and Features Wizard pop-up window, click Add Features.</p>
 
 ![Select Server Roles](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/37ee022b-b95a-4f58-ac43-dcc383ce2794)
+  
+
+
+In the Add Roles and Features Wizard pop-up window, click Add Features.</p>
+
+  <img width="633" alt="11 Screenshot 2024-04-04 061602" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/0374dfef-2201-4b2f-92a6-fd24ed4c4608">
 
 <p> In the Select features page, leave the default selection and click Next. </p>
 
