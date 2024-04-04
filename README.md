@@ -306,8 +306,21 @@ In this task, different DNS records will be configured on a DNS reserver.
 
 
 <p>
-  In Server Manager, select Tools and click DNS.
+  In <b>Server Manager</b>, select <b>Tools</b> and click <b>DNS</b>.
 </p>
 
 
 <img width="497" alt="original dns server" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/0d2224ca-e65c-4aa1-9a81-ce0cc2d69b40">
+
+<p>
+  On the <b>DNS Manager</b> window, expand <b>Forward Lookup Zones</b> > <b>PRACTICELABS.COM</b>.
+</p>
+
+![On the DNS Manager window, expand Forward Lookup Zones](https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/ac1ac589-a67f-49c0-ace1-234a32552d9d)
+
+<p
+  Right-click PRACTICELABS.COM and select New Host (A or AAAA)…
+  </p>
+
+
+<img width="604" alt="aa or aaaa" src="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers/assets/110644520/1a339f44-f47f-4eee-a9ac-2e7ae7477fd0">
